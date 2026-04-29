@@ -1,7 +1,7 @@
 # Tarjeta de Desarrollo PIC16F628A - Versión 1.0 🚀
 
 <p align="center">
-  <img src="./Imágenes/WhatsApp Image 2026-04-29 at 12.38.11.jpeg" width="600" alt="PCB terminada">
+  <img src="./Imágenes/20250222_072257.jpg" width="600" alt="PCB terminada">
 </p>
 
 Diseño de PCB personalizado para el microcontrolador PIC16F628A, optimizado para fabricación mediante CNC milling.
@@ -16,10 +16,6 @@ Diseño de PCB personalizado para el microcontrolador PIC16F628A, optimizado par
 - **Diseño:** Proteus (Esquemático y PCB Layout).
 - **Procesamiento G-Code:** FlatCAM.
 - **Fabricación:** CNC Milling (Fresado de aislamiento).
-
-## 📸 Galería
-
-![Vista previa de la PCB](./Imágenes/20250222_072257.jpg)
 
 ## 🛠️ Detalles del Proyecto
 - **Diseño:** Esquemático y PCB diseñado en Proteus.
