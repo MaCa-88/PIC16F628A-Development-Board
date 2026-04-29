@@ -14,7 +14,7 @@ Diseño de PCB personalizado para el microcontrolador PIC16F628A, optimizado par
 - **Fabricación:** CNC Milling (Fresado de aislamiento).
 
 ## 📸 Galería
-(Aquí puedes insertar la mejor foto que tengas en tu carpeta de imágenes)
+
 ![Vista previa de la PCB](./Imágenes/20250222_072257.jpg)
 
 ## 🔧 Especificaciones Técnicas
