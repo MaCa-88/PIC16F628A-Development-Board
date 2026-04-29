@@ -1,0 +1,69 @@
+LABCENTER PROTEUS TOOL INFORMATION FILE
+=======================================
+
+In case of difficulty, please e-mail support@labcenter.co.uk
+
+Tool set up for Proteus layout 'PIC16F628A.pdsprj'.
+CADCAM generated at 8:14:31 PM on Monday, February 3, 2025.
+
+File List
+---------
+Top Copper              : PIC16F628A - CADCAM Top Copper.GBR
+Bottom Copper           : PIC16F628A - CADCAM Bottom Copper.GBR
+Top Silk Screen         : PIC16F628A - CADCAM Top Silk Screen.GBR
+Top Solder Resist       : PIC16F628A - CADCAM Top Solder Resist.GBR
+Bottom Solder Resist    : PIC16F628A - CADCAM Bottom Solder Resist.GBR
+Top Assembly            : PIC16F628A - CADCAM Top Assembly.GBR
+Slot                    : PIC16F628A - CADCAM Slot.GBR
+Drill                   : PIC16F628A - CADCAM Drill.DRL
+Netlist                 : PIC16F628A - CADCAM Netlist.IPC
+
+Photoplotter Setup
+------------------
+Format: RS274X, ASCII, 2.4, imperial, absolute, eob=*, LZO
+Bounds: -704.7th -1231.3th 712.6th 1245.1th
+Notes:  D=Diameter, S=Side, W=Width, H=Height, C=Chamfer, I=Index
+
+D10	SQUARE  S=60th                                                            FLASH
+D11	SQUARE  S=100th                                                           FLASH
+D12	CIRCLE  D=70th                                                            FLASH
+D13	CIRCLE  D=80th                                                            FLASH
+D14	CIRCLE  D=8th                                                             DRAW 
+D15	CIRCLE  D=30th                                                            DRAW 
+D16	CIRCLE  D=10th                                                            DRAW 
+D17	CIRCLE  D=20th                                                            DRAW 
+D18	CIRCLE  D=6th                                                             DRAW 
+D19	PPAD    W=80th                H=80th                I=0                   FLASH
+D70	PPAD    W=110th               H=110th               I=1                   FLASH
+D71	CIRCLE  D=90th                                                            FLASH
+D20	CIRCLE  D=24th                                                            DRAW 
+D21	CIRCLE  D=40th                                                            DRAW 
+D22	CIRCLE  D=10.3th                                                          DRAW 
+D23	CIRCLE  D=3.1th                                                           DRAW 
+D24	CIRCLE  D=2.9th                                                           DRAW 
+D25	CIRCLE  D=28th                                                            DRAW 
+D26	CIRCLE  D=4.3th                                                           DRAW 
+D27	CIRCLE  D=32th                                                            DRAW 
+D28	CIRCLE  D=9.6th                                                           DRAW 
+D29	CIRCLE  D=8.3th                                                           DRAW 
+D72	CIRCLE  D=5th                                                             DRAW 
+D73	CIRCLE  D=2.5th                                                           DRAW 
+
+NC Drill Setup
+--------------
+Format: Excellon, ASCII, 2.4, imperial, absolute, eob=<CR><LF>, no zero suppression.
+Notes:  Tool sizes are diameters. Layer sets are in brackets - 0=TOP, 15=BOTTOM, 1-14=INNER.
+
+T01	30th (0-15) Plated
+T02	50th (0-15) Plated
+
+Layer Stackup
+-------------
+Top Solder Resist        : 0.4th      Resist
+Top Copper               : 0.7th      Copper
+Core                     : 61th       FR4
+Bottom Copper            : 0.7th      Copper
+Bottom Solder Resist     : 0.4th      Resist
+
+
+[END OF FILE]

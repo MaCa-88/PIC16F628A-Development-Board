@@ -1,0 +1,12 @@
+# Writing all output to: D:\ELECTRONICA\TARJETAS PCB\PROYECTOS\THT\Tarjetas PIC\Tarjetas de Desarrollo\PIC16F628A\Proteus\PIC16F628A.log
+set pad_wire_necking on
+bus diagonal
+fanout 5
+route 50
+clean 2
+route 50 16
+clean 2
+filter 5
+recorner diagonal
+status_file
+
