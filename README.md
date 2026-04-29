@@ -14,12 +14,8 @@ Diseño de PCB personalizado para el microcontrolador PIC16F628A, optimizado par
 
 ## 🛠️ Herramientas Utilizadas
 - **Diseño:** Proteus (Esquemático y PCB Layout).
-- **Procesamiento G-Code:** FlatCAM.
+- **Procesamiento G-Code:** Procesado con FlatCAM.
 - **Fabricación:** CNC Milling (Fresado de aislamiento).
-
-## 🛠️ Detalles del Proyecto
-- **Diseño:** Esquemático y PCB diseñado en Proteus.
-- **Fabricación:** Procesado con FlatCAM y fabricado mediante CNC Milling (fresado de aislamiento).
 - **Microcontrolador:** PIC16F628A.
 
 Este repositorio contiene todos los archivos necesarios para replicar la tarjeta, desde el diseño original hasta los archivos listos para la CNC.
